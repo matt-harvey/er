@@ -66,6 +66,9 @@ figcaption {
   text-align: center;
   margin-top: 0.5em;
 }
+.attribution {
+  font-size: 0.75em;
+}
 
 blockquote {
   border-left-style: solid;
